@@ -6,6 +6,7 @@ Duration: 10 June 2025 to 10 July 2025
 Domain: Python Programming 
 **Overview of the project**
 Project: A Python Program to Generate Strong and Random Passwords.
+![image alt](https://github.com/Priyanshi19-ba/CodSoft-Task3/blob/main/Screenshot%202025-07-04%20174850.png?raw=true)
 Objective:
 To develop a Python application that generates strong, random passwords of user-defined length and complexity, helping users enhance their online security by creating secure passwords easily.
 
